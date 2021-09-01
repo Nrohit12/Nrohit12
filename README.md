@@ -24,7 +24,8 @@
 
 ## ✨ Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nrohit12&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nrohit12&show_icons=true&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nrohit12&theme=tokyonight)
 
 
 <!---
