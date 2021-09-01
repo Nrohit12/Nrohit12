@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nrohit12
+- 👋 Hola, I’m @Nrohit12
 - 👀 I’m interested in Javacript and Native Mobile Application Development
 - 🌱 I’m currently learning React Native and React Js
 - 📫 How to reach me: nrohit9897@gmail.com
