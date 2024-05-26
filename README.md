@@ -1,6 +1,4 @@
 - 👋 Hola, I’m @Nrohit12
-- 👀 I’m interested in Javacript and Native Mobile Application Development
-- 🌱 Currently working on ReactJs and React Native
 
 ## ✉️ Find me on:
 
