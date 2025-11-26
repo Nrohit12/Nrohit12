@@ -12,19 +12,6 @@
 
 ---
 
-### 🚀 About Me
-
-- Backend-leaning software engineer with **4+ years** building **real-time, multi-tenant web and mobile apps**  
-- Strong in **Node.js / NestJS, Python, PostgreSQL, MongoDB, Redis, queues, and AWS**  
-- Shipped production features for:
-  - **Job platforms** (matching, scheduling, interviews, resume parsing)
-  - **Streaming & content platforms** (live video, notifications, subscriptions)
-  - **Multi-tenant admin & SaaS dashboards**
-- Enjoy owning things **end-to-end**: API design, data modeling, infra, deployments, monitoring, performance  
-- Love working with **early/growth-stage startups**, small teams, and fast feedback loops
-
----
-
 ### 🛠 Tech Stack
 
 #### 🔙 Backend
@@ -121,61 +108,44 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true&hide_border=true&count_private=true"
-    alt="Rohit's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=nrohit12&show_icons=true&hide_border=true&count_private=true"
+    alt="Rohit Raj's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=your-handle&hide_border=true"
-    alt="Rohit's GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nrohit12&hide_border=true"
+    alt="Rohit Raj's GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-handle&layout=compact&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrohit12&layout=compact&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=your-handle&theme=algolia&no-frame=true&no-bg=true&margin-w=15"
+    src="https://github-profile-trophy.vercel.app/?username=nrohit12&theme=algolia&no-frame=true&no-bg=true&margin-w=15"
     alt="GitHub Trophies"
   />
 </p>
 
 ---
 
-### 🧑‍💻 Experience Snapshot
+### 🚀 About Me
 
-**Software Developer – Codeblaze (Remote)**  
-*Aug 2025 – Present*  
-- Building **multi-tenant admin & user apps** (NestJS + React) with strict **RBAC/ABAC**  
-- Python-based **scrapers & crawlers** with AI-driven enrichment replacing manual data entry  
-- **Redis + queues (RabbitMQ / SQS)** for imports, reports, and notifications  
-- Maintaining a **monorepo** via Docker & GitLab CI/CD
-
-**Senior Software Developer – Jigsawapp (under Zydelo Softwares, Remote)**  
-*Feb 2023 – Jul 2025*  
-- Architected backend for a **job platform** (100k+ requests/day, 99.99% uptime)  
-- Built **candidate–job matching**, **1:1 interviews**, **auto scheduling**  
-- Shipped **AI features**: resume parsing, AI interview scoring, skill ratings (LangChain, LLMs, vector DBs)  
-- Led a **7-engineer** team and drove backend design decisions
-
-**Senior Software Developer – Zydelo Softwares (Remote)**  
-*Feb 2022 – Jul 2025*  
-- Full-stack on a **chef streaming & recipe platform** (web + mobile)  
-- Built **subscriptions**, **notifications**, and integrated **live video** (Mux, WebSockets/RTMP)  
-- Drove features **API → UI**, ensuring end-to-end quality
-
-**Software Developer – Scalingweb Technologies (Remote)**  
-*Jul 2021 – Feb 2022*  
-- Worked on a **short-video app** (React Native, React, Node.js, Python, MongoDB, AWS)  
-- Implemented **video playback flows**, **notifications**, and **rewards**  
-- Set up **Mixpanel analytics** and iterated based on data
+- Backend-leaning software engineer with **4+ years** building **real-time, multi-tenant web and mobile apps**  
+- Strong in **Node.js / NestJS, Python, PostgreSQL, MongoDB, Redis, queues, and AWS**  
+- Shipped production features for:
+  - **Job platforms** (matching, scheduling, interviews, resume parsing)
+  - **Streaming & content platforms** (live video, notifications, subscriptions)
+  - **Multi-tenant admin & SaaS dashboards**
+- Enjoy owning things **end-to-end**: API design, data modeling, infra, deployments, monitoring, performance  
+- Love working with **early/growth-stage startups**, small teams, and fast feedback loops  
 
 ---
 
@@ -196,8 +166,7 @@ Browser extension for **referrals, autofill, and AI mock interview prep**.
 
 ### 📫 How to Reach Me
 
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/r-rohit)  
-- (Optional) Portfolio: [your-website.com](https://nrohit12.github.io/portfolio)
+- [LinkedIn](https://www.linkedin.com/in/r-rohit)  
 
 ---
 
