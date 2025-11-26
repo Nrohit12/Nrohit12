@@ -12,6 +12,18 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![Rohit's GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrohit12)
+
+![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nrohit12)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nrohit12)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrohit12)
+
+---
+
 ### 🛠 Tech Stack
 
 #### 🔙 Backend
@@ -100,23 +112,6 @@
   <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-![Rohit's GitHub Stats](github-readme-stats.vercel.app)
-
-![Top Languages](github-readme-stats.vercel.app)
-
-![GitHub Streak](github-readme-streak-stats.herokuapp.com)
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=nrohit12&theme=algolia&no-frame=true&no-bg=true&margin-w=15"
-    alt="GitHub Trophies"
-  />
 </p>
 
 ---
