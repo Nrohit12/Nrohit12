@@ -34,15 +34,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrohit12" alt="Rohit's GitHub Profile" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nrohit12" alt="GitHub Summary" />
-  <img src="https://streak-stats.demolab.com/?user=nrohit12" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nrohit12&theme=flat" alt="GitHub Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nrohit12" alt="GitHub Summary" />
 </p>
 
 ---
