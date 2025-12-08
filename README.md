@@ -46,7 +46,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" alt="Node.js" />
   &nbsp; <b>Node.js</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="26" alt="NestJS" />
+  <img src="https://github.com/nestjs.png" height="26" alt="NestJS" />
   &nbsp; <b>NestJS</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="Python" />
   &nbsp; <b>Python</b> &nbsp;&nbsp;|&nbsp;&nbsp;
