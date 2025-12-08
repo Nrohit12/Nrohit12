@@ -14,6 +14,20 @@
   </a>
 </p>
 
+
+---
+
+### 🚀 About Me
+
+- Backend-leaning software engineer with **4+ years** building **real-time, multi-tenant web and mobile apps**  
+- Strong in **Node.js / NestJS, Python, PostgreSQL, MongoDB, Redis, queues, and AWS**  
+- Shipped production features for:
+  - **Job platforms** (matching, scheduling, interviews, resume parsing)
+  - **Streaming & content platforms** (live video, notifications, subscriptions)
+  - **Multi-tenant admin & SaaS dashboards**
+- Enjoy owning things **end-to-end**: API design, data modeling, infra, deployments, monitoring, performance  
+- Love working with **early/growth-stage startups**, small teams, and fast feedback loops  
+
 ---
 
 ### 📊 GitHub Overview
@@ -151,19 +165,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="26" alt="GitHub" />
   &nbsp; <b>GitHub</b>
 </p>
-
----
-
-### 🚀 About Me
-
-- Backend-leaning software engineer with **4+ years** building **real-time, multi-tenant web and mobile apps**  
-- Strong in **Node.js / NestJS, Python, PostgreSQL, MongoDB, Redis, queues, and AWS**  
-- Shipped production features for:
-  - **Job platforms** (matching, scheduling, interviews, resume parsing)
-  - **Streaming & content platforms** (live video, notifications, subscriptions)
-  - **Multi-tenant admin & SaaS dashboards**
-- Enjoy owning things **end-to-end**: API design, data modeling, infra, deployments, monitoring, performance  
-- Love working with **early/growth-stage startups**, small teams, and fast feedback loops  
 
 ---
 
