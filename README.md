@@ -1,3 +1,38 @@
+<h1 align="center">Hey, I'm Rohit Raj 👋</h1>
+
+<p align="center">
+  <b>Backend-leaning Software Engineer</b><br/>
+  Real-time systems · Multi-tenant SaaS · AI-powered products
+</p>
+
+<p align="center">
+  <a href="https://github.com/nrohit12">
+    <img src="https://img.shields.io/badge/GitHub-nrohit12-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/r-rohit">
+    <img src="https://img.shields.io/badge/LinkedIn-r--rohit-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrohit12" alt="Rohit's GitHub Profile" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nrohit12" alt="GitHub Summary" />
+  <img src="https://streak-stats.demolab.com/?user=nrohit12" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nrohit12&theme=flat" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🛠 Tech Stack
 
 #### 🔙 Backend
@@ -116,3 +151,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="26" alt="GitHub" />
   &nbsp; <b>GitHub</b>
 </p>
+
+---
+
+### 🚀 About Me
+
+- Backend-leaning software engineer with **4+ years** building **real-time, multi-tenant web and mobile apps**  
+- Strong in **Node.js / NestJS, Python, PostgreSQL, MongoDB, Redis, queues, and AWS**  
+- Shipped production features for:
+  - **Job platforms** (matching, scheduling, interviews, resume parsing)
+  - **Streaming & content platforms** (live video, notifications, subscriptions)
+  - **Multi-tenant admin & SaaS dashboards**
+- Enjoy owning things **end-to-end**: API design, data modeling, infra, deployments, monitoring, performance  
+- Love working with **early/growth-stage startups**, small teams, and fast feedback loops  
+
+---
+
+### 📫 How to Reach Me
+
+- [GitHub](https://github.com/nrohit12)  
+- [LinkedIn](https://www.linkedin.com/in/r-rohit)  
+
+---
+
+⭐️ *Check out the pinned repositories below for a snapshot of what I’ve been building.*
